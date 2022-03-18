@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jetpackcomposelayout</string>
+    <string name="title_activity_modifier">modifier</string>
+    <string name="title_activity_slot_api">SlotApiActivity</string>
+    <string name="title_activity_working_list">WorkingListActivity</string>
+    <string name="title_activity_custom_layout">CustomLayoutActivity</string>
+    <string name="title_activity_staggered_grid">StaggeredGridActivity</string>
+</resources>
