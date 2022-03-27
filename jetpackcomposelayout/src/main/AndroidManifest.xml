@@ -12,6 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ComposeBasic">
         <activity
+            android:name=".ConstraintLayoutActivity"
+            android:exported="false"
+            android:label="@string/title_activity_constraint_layout"
+            android:theme="@style/Theme.ComposeBasic" />
+        <activity
             android:name=".StaggeredGridActivity"
             android:exported="false"
             android:label="@string/title_activity_staggered_grid"
