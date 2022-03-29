@@ -16,3 +16,4 @@ rootProject.name = "ComposeBasic"
 include ':app'
 include ':jetpackcomposebasic'
 include ':jetpackcomposelayout'
+include ':jetpackcomposestate'
